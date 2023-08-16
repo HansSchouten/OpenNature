@@ -19,4 +19,4 @@ Interested in collaborating? Create a ticket on this repo or start using the Fau
 
 ## Copyright
 The images are submitted by FaunaMap users or obtained from public sources (for example the Flickr API with a `Public Domain Mark` and `Public Domain Dedication (CC0)` license filter).
-Changes on this repo are made automatically, so we cannot offer a 100% guarantee that all images are CC0. If you know any copyright infringements please create a ticket on this repo and we will take action as soon as possible.
+Changes on this repo are made automatically, so we cannot offer a full 100% guarantee that all images are in fact CC0. If you know about any copyright infringements please create a ticket on this repo and we will take action as soon as possible.
