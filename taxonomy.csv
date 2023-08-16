@@ -404,7 +404,7 @@ Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and 
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Rhizothera longirostris";"Long-billed Partridge";"Indische Bospatrijs (longirostris)";0;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Rhizothera dulitensis";"Dulit Partridge";"Indische Bospatrijs (dulitensis)";0;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Perdix hodgsoniae";"Tibetan Partridge";"Tibetaanse Patrijs";0;
-Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Perdix perdix";"Gray Partridge";Patrijs;0;
+Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Perdix perdix";"Gray Partridge";Patrijs;1;birds/perdix-perdix/main.jpg
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Perdix dauurica";"Daurian Partridge";Baardpatrijs;0;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Syrmaticus soemmerringii";"Copper Pheasant";Koperfazant;0;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Syrmaticus reevesii";"Reeves's Pheasant";Koningsfazant;0;
@@ -2080,7 +2080,7 @@ Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tr
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa solitaria";"Solitary Sandpiper";"Amerikaanse Bosruiter";0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa brevipes";"Gray-tailed Tattler";"Siberische Grijze Ruiter";0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa incana";"Wandering Tattler";"Amerikaanse Grijze Ruiter";0;
-Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa erythropus";"Spotted Redshank";"Zwarte Ruiter";0;
+Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa erythropus";"Spotted Redshank";"Zwarte Ruiter";1;birds/tringa-erythropus/main.jpg
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa melanoleuca";"Greater Yellowlegs";"Grote Geelpootruiter";0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa nebularia";"Common Greenshank";Groenpootruiter;1;birds/tringa-nebularia/main.jpg
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa guttifer";"Nordmann's Greenshank";"Nordmanns Groenpootruiter";0;
