@@ -2,7 +2,7 @@
 > Free open information (CC0) about nature on planet earth.
 
 We believe that data about our natural world should be open to the general public, not only for a selection of approved scientists or non-conflicting use-cases (which is the case at Macaulay Library and others).<br>
-This library aims to provide free to use information about all living species, starting with <strong>a royalty free image of all birds</strong>.
+This library aims to provide free to use information about all living species, starting with <strong>a royalty free image of each bird species</strong>.
 
 <!-- DYNAMIC BADGES -->
 <div><img alt="Bird species in taxonomy" src="https://img.shields.io/badge/Bird_species_in_taxonomy-10749_species-blue"></div>
