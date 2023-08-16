@@ -1,7 +1,7 @@
 # OpenNature
 > Free open access (CC0) information about nature on planet earth.
 
-This library aims to provide a free to use image of all species, starting with birds.
+This library aims to provide a free to use image of all living species, starting with birds.
 
 <!-- DYNAMIC BADGES -->
 <div><img alt="Bird species in taxonomy" src="https://img.shields.io/badge/Bird_species_in_taxonomy-10749_species-blue"></div>
