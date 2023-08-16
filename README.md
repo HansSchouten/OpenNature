@@ -1,6 +1,7 @@
 # OpenNature
 > Free open access (CC0) information about nature on planet earth.
 
+We believe that data about our natural world should be open to the general public, not only for a selection of approved scientists or non-conflicting use-cases (which is the case at Macaulay Library and others).<br>
 This library aims to provide a free to use image of all living species, starting with birds.
 
 <!-- DYNAMIC BADGES -->
@@ -18,4 +19,4 @@ Interested in collaborating? Create a ticket on this repo or start using the Fau
 
 ## Copyright
 The images are submitted by FaunaMap users or obtained from public sources (for example the Flickr API with a `Public Domain Mark` and `Public Domain Dedication (CC0)` license filter).
-However, we cannot 100% guarantee that all images are CC0. If you know any copyright infringements please create a ticket on this repo and we will take action as soon as possible.
+Changes on this repo are made automatically, so we cannot offer a 100% guarantee that all images are CC0. If you know any copyright infringements please create a ticket on this repo and we will take action as soon as possible.
