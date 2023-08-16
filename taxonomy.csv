@@ -1873,7 +1873,7 @@ Gruiformes;Gruidae;Cranes;Cranes;"Antigone canadensis";"Sandhill Crane";"Canades
 Gruiformes;Gruidae;Cranes;Cranes;"Antigone antigone";"Sarus Crane";Saruskraanvogel;0;
 Gruiformes;Gruidae;Cranes;Cranes;"Antigone rubicunda";Brolga;Brolgakraanvogel;0;
 Gruiformes;Gruidae;Cranes;Cranes;"Antigone vipio";"White-naped Crane";Witnekkraanvogel;0;
-Gruiformes;Gruidae;Cranes;Cranes;"Grus grus";"Common Crane";Kraanvogel;0;
+Gruiformes;Gruidae;Cranes;Cranes;"Grus grus";"Common Crane";Kraanvogel;1;birds/grus-grus/main.jpg
 Gruiformes;Gruidae;Cranes;Cranes;"Grus monacha";"Hooded Crane";Monnikskraanvogel;0;
 Gruiformes;Gruidae;Cranes;Cranes;"Grus americana";"Whooping Crane";Trompetkraanvogel;0;
 Gruiformes;Gruidae;Cranes;Cranes;"Grus nigricollis";"Black-necked Crane";Zwarthalskraanvogel;0;
@@ -1913,7 +1913,7 @@ Charadriiformes;Haematopodidae;Oystercatchers;Oystercatchers;"Haematopus moquini
 Charadriiformes;Haematopodidae;Oystercatchers;Oystercatchers;"Haematopus ater";"Blackish Oystercatcher";"Zuid-Amerikaanse Zwarte Scholekster";0;
 Charadriiformes;Haematopodidae;Oystercatchers;Oystercatchers;"Haematopus leucopodus";"Magellanic Oystercatcher";Magelhaenscholekster;0;
 Charadriiformes;Haematopodidae;Oystercatchers;Oystercatchers;"Haematopus bachmani";"Black Oystercatcher";"Noord-Amerikaanse Zwarte Scholekster";0;
-Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Pluvialis squatarola";"Black-bellied Plover";Zilverplevier;0;
+Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Pluvialis squatarola";"Black-bellied Plover";Zilverplevier;1;birds/pluvialis-squatarola/main.jpg
 Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Pluvialis apricaria";"European Golden-Plover";Goudplevier;1;birds/pluvialis-apricaria/main.jpg
 Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Pluvialis dominica";"American Golden-Plover";"Amerikaanse Goudplevier";0;
 Charadriiformes;Charadriidae;"Plovers and Lapwings";"Plovers and Lapwings";"Pluvialis fulva";"Pacific Golden-Plover";"Aziatische Goudplevier";0;
@@ -2006,7 +2006,7 @@ Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Nu
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Numenius madagascariensis";"Far Eastern Curlew";"Siberische Wulp";0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Numenius tenuirostris";"Slender-billed Curlew";Dunbekwulp;0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Numenius arquata";"Eurasian Curlew";Wulp;1;birds/numenius-arquata/main.jpg
-Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Limosa lapponica";"Bar-tailed Godwit";"Rosse Grutto";0;
+Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Limosa lapponica";"Bar-tailed Godwit";"Rosse Grutto";1;birds/limosa-lapponica/main.jpg
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Limosa limosa";"Black-tailed Godwit";Grutto;1;birds/limosa-limosa/main.jpg
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Limosa haemastica";"Hudsonian Godwit";"Rode Grutto";0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Limosa fedoa";"Marbled Godwit";Marmergrutto;0;
@@ -2041,7 +2041,7 @@ Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Li
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Limnodromus griseus";"Short-billed Dowitcher";"Kleine Grijze Snip";0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Limnodromus scolopaceus";"Long-billed Dowitcher";"Grote Grijze Snip";0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Lymnocryptes minimus";"Jack Snipe";Bokje;0;
-Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Scolopax rusticola";"Eurasian Woodcock";Houtsnip;0;
+Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Scolopax rusticola";"Eurasian Woodcock";Houtsnip;1;birds/scolopax-rusticola/main.jpg
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Scolopax mira";"Amami Woodcock";Amamihoutsnip;0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Scolopax bukidnonensis";"Bukidnon Woodcock";Bukidnonhoutsnip;0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Scolopax saturata";"Javan Woodcock";"Indische Houtsnip";0;
@@ -2260,7 +2260,7 @@ Eurypygiformes;Eurypygidae;Sunbittern;Sunbittern;"Eurypyga helias";Sunbittern;Zo
 Phaethontiformes;Phaethontidae;Tropicbirds;Tropicbirds;"Phaethon lepturus";"White-tailed Tropicbird";Witstaartkeerkringvogel;0;
 Phaethontiformes;Phaethontidae;Tropicbirds;Tropicbirds;"Phaethon aethereus";"Red-billed Tropicbird";Roodsnavelkeerkringvogel;0;
 Phaethontiformes;Phaethontidae;Tropicbirds;Tropicbirds;"Phaethon rubricauda";"Red-tailed Tropicbird";Roodstaartkeerkringvogel;0;
-Gaviiformes;Gaviidae;Loons;Loons;"Gavia stellata";"Red-throated Loon";Roodkeelduiker;0;
+Gaviiformes;Gaviidae;Loons;Loons;"Gavia stellata";"Red-throated Loon";Roodkeelduiker;1;birds/gavia-stellata/main.jpg
 Gaviiformes;Gaviidae;Loons;Loons;"Gavia arctica";"Arctic Loon";Parelduiker;0;
 Gaviiformes;Gaviidae;Loons;Loons;"Gavia pacifica";"Pacific Loon";"Pacifische Parelduiker";0;
 Gaviiformes;Gaviidae;Loons;Loons;"Gavia immer";"Common Loon";IJsduiker;0;
@@ -2452,7 +2452,7 @@ Suliformes;Sulidae;"Boobies and Gannets";"Boobies and Gannets";"Sula variegata";
 Suliformes;Sulidae;"Boobies and Gannets";"Boobies and Gannets";"Sula leucogaster";"Brown Booby";"Bruine Gent";0;
 Suliformes;Sulidae;"Boobies and Gannets";"Boobies and Gannets";"Sula sula";"Red-footed Booby";Roodpootgent;0;
 Suliformes;Sulidae;"Boobies and Gannets";"Boobies and Gannets";"Papasula abbotti";"Abbott's Booby";"Abbotts Gent";0;
-Suliformes;Sulidae;"Boobies and Gannets";"Boobies and Gannets";"Morus bassanus";"Northern Gannet";Jan-van-gent;0;
+Suliformes;Sulidae;"Boobies and Gannets";"Boobies and Gannets";"Morus bassanus";"Northern Gannet";Jan-van-gent;1;birds/morus-bassanus/main.jpg
 Suliformes;Sulidae;"Boobies and Gannets";"Boobies and Gannets";"Morus capensis";"Cape Gannet";"Kaapse Jan-van-gent";0;
 Suliformes;Sulidae;"Boobies and Gannets";"Boobies and Gannets";"Morus serrator";"Australasian Gannet";"Pacifische Jan-van-gent";0;
 Suliformes;Anhingidae;Anhingas;Anhingas;"Anhinga anhinga";Anhinga;"Amerikaanse Slangenhalsvogel";0;
@@ -2510,7 +2510,7 @@ Pelecaniformes;Balaenicipitidae;Shoebill;Shoebill;"Balaeniceps rex";Shoebill;Sch
 Pelecaniformes;Scopidae;Hamerkop;Hamerkop;"Scopus umbretta";Hamerkop;Hamerkop;0;
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Botaurus pinnatus";"Pinnated Bittern";"Zuid-Amerikaanse Roerdomp";0;
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Botaurus lentiginosus";"American Bittern";"Noord-Amerikaanse Roerdomp";0;
-Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Botaurus stellaris";"Great Bittern";Roerdomp;0;
+Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Botaurus stellaris";"Great Bittern";Roerdomp;1;birds/botaurus-stellaris/main.jpg
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Botaurus poiciloptilus";"Australasian Bittern";"Australische Roerdomp";0;
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Zebrilus undulatus";"Zigzag Heron";Zigzagreiger;0;
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ixobrychus sinensis";"Yellow Bittern";"Chinese Woudaap";0;
@@ -2536,7 +2536,7 @@ Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitt
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ardea insignis";"White-bellied Heron";Keizerreiger;0;
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ardea sumatrana";"Great-billed Heron";"Sumatraanse Reiger";0;
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ardea goliath";"Goliath Heron";Reuzenreiger;0;
-Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ardea purpurea";"Purple Heron";Purperreiger;0;
+Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ardea purpurea";"Purple Heron";Purperreiger;1;birds/ardea-purpurea/main.jpg
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ardea alba";"Great Egret";"Grote Zilverreiger";1;birds/ardea-alba/main.jpg
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Ardea intermedia";"Intermediate Egret";"Middelste Zilverreiger";0;
 Pelecaniformes;Ardeidae;"Herons, Egrets, and Bitterns";"Herons, Egrets, and Bitterns";"Egretta novaehollandiae";"White-faced Heron";Witwangreiger;0;
@@ -2614,7 +2614,7 @@ Cathartiformes;Cathartidae;"New World Vultures";"New World Vultures";"Cathartes 
 Cathartiformes;Cathartidae;"New World Vultures";"New World Vultures";"Cathartes burrovianus";"Lesser Yellow-headed Vulture";"Kleine Geelkopgier";0;
 Cathartiformes;Cathartidae;"New World Vultures";"New World Vultures";"Cathartes melambrotus";"Greater Yellow-headed Vulture";"Grote Geelkopgier";0;
 Accipitriformes;Sagittariidae;Secretarybird;Secretarybird;"Sagittarius serpentarius";Secretarybird;Secretarisvogel;0;
-Accipitriformes;Pandionidae;Osprey;Osprey;"Pandion haliaetus";Osprey;Visarend;0;
+Accipitriformes;Pandionidae;Osprey;Osprey;"Pandion haliaetus";Osprey;Visarend;1;birds/pandion-haliaetus/main.jpg
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Gampsonyx swainsonii";"Pearl Kite";Parelwouw;0;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Elanus caeruleus";"Black-winged Kite";"Grijze Wouw";0;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Elanus axillaris";"Black-shouldered Kite";"Australische Grijze Wouw";0;
@@ -3039,7 +3039,7 @@ Strigiformes;Strigidae;Owls;Owls;"Strix albitarsis";"Rufous-banded Owl";Witbroek
 Strigiformes;Strigidae;Owls;Owls;"Strix seloputo";"Spotted Wood-Owl";"Maleise Bosuil";0;
 Strigiformes;Strigidae;Owls;Owls;"Strix ocellata";"Mottled Wood-Owl";"Indische Bosuil";0;
 Strigiformes;Strigidae;Owls;Owls;"Strix leptogrammica";"Brown Wood-Owl";"Bruine Bosuil";0;
-Strigiformes;Strigidae;Owls;Owls;"Strix aluco";"Tawny Owl";Bosuil;0;
+Strigiformes;Strigidae;Owls;Owls;"Strix aluco";"Tawny Owl";Bosuil;1;birds/strix-aluco/main.jpg
 Strigiformes;Strigidae;Owls;Owls;"Strix mauritanica";"Maghreb Owl";"Maghreb Owl";0;
 Strigiformes;Strigidae;Owls;Owls;"Strix nivicolum";"Himalayan Owl";"Kleine Himalayabosuil";0;
 Strigiformes;Strigidae;Owls;Owls;"Strix hadorami";"Desert Owl";"Palestijnse Bosuil (hadorami)";0;
@@ -3055,7 +3055,7 @@ Strigiformes;Strigidae;Owls;Owls;"Strix uralensis";"Ural Owl";Oeraluil;0;
 Strigiformes;Strigidae;Owls;Owls;"Strix nebulosa";"Great Gray Owl";Laplanduil;0;
 Strigiformes;Strigidae;Owls;Owls;"Strix woodfordii";"African Wood-Owl";"Afrikaanse Bosuil";0;
 Strigiformes;Strigidae;Owls;Owls;"Asio grammicus";"Jamaican Owl";"Jamaicaanse Uil";0;
-Strigiformes;Strigidae;Owls;Owls;"Asio otus";"Long-eared Owl";Ransuil;0;
+Strigiformes;Strigidae;Owls;Owls;"Asio otus";"Long-eared Owl";Ransuil;1;birds/asio-otus/main.jpg
 Strigiformes;Strigidae;Owls;Owls;"Asio abyssinicus";"Abyssinian Owl";"Ethiopische Ransuil";0;
 Strigiformes;Strigidae;Owls;Owls;"Asio madagascariensis";"Madagascar Owl";Madagaskarransuil;0;
 Strigiformes;Strigidae;Owls;Owls;"Asio clamator";"Striped Owl";"Gestreepte Ransuil";0;
@@ -6667,7 +6667,7 @@ Passeriformes;Laniidae;Shrikes;Shrikes;"Lanius validirostris";"Mountain Shrike";
 Passeriformes;Laniidae;Shrikes;Shrikes;"Lanius ludovicianus";"Loggerhead Shrike";"Amerikaanse Klapekster";0;
 Passeriformes;Laniidae;Shrikes;Shrikes;"Lanius borealis";"Northern Shrike";"Noordelijke Klapekster";0;
 Passeriformes;Laniidae;Shrikes;Shrikes;"Lanius meridionalis";"Iberian Gray Shrike";"Iberische Klapekster ";0;
-Passeriformes;Laniidae;Shrikes;Shrikes;"Lanius excubitor";"Great Gray Shrike";Klapekster;0;
+Passeriformes;Laniidae;Shrikes;Shrikes;"Lanius excubitor";"Great Gray Shrike";Klapekster;1;birds/lanius-excubitor/main.jpg
 Passeriformes;Laniidae;Shrikes;Shrikes;"Lanius minor";"Lesser Gray Shrike";"Kleine Klapekster";0;
 Passeriformes;Laniidae;Shrikes;Shrikes;"Lanius sphenocercus";"Chinese Gray Shrike";"Chinese Gray Shrike";0;
 Passeriformes;Laniidae;Shrikes;Shrikes;"Lanius giganteus";"Giant Shrike";"Giant Shrike";0;
@@ -7066,7 +7066,7 @@ Passeriformes;Alaudidae;Larks;Larks;"Galerida theklae";"Thekla's Lark";Theklalee
 Passeriformes;Alaudidae;Larks;Larks;"Galerida cristata";"Crested Lark";Kuifleeuwerik;0;
 Passeriformes;Alaudidae;Larks;Larks;"Galerida malabarica";"Malabar Lark";Malabarkuifleeuwerik;0;
 Passeriformes;Alaudidae;Larks;Larks;"Galerida deva";"Tawny Lark";"Sykes' Kuifleeuwerik";0;
-Passeriformes;Panuridae;"Bearded Reedling";"Bearded Reedling";"Panurus biarmicus";"Bearded Reedling";Baardman;0;
+Passeriformes;Panuridae;"Bearded Reedling";"Bearded Reedling";"Panurus biarmicus";"Bearded Reedling";Baardman;1;birds/panurus-biarmicus/main.jpg
 Passeriformes;Nicatoridae;Nicators;Nicators;"Nicator chloris";"Western Nicator";Grijskeelnicator;0;
 Passeriformes;Nicatoridae;Nicators;Nicators;"Nicator gularis";"Eastern Nicator";Bruinkopnicator;0;
 Passeriformes;Nicatoridae;Nicators;Nicators;"Nicator vireo";"Yellow-throated Nicator";Geelkeelnicator;0;
@@ -8724,7 +8724,7 @@ Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Musc
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Muscicapa adusta";"African Dusky Flycatcher";"Kaapse Vliegenvanger";0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Muscicapa epulata";"Little Flycatcher";Fantivliegenvanger;0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Muscicapa sethsmithi";"Yellow-footed Flycatcher";Geelpootvliegenvanger;0;
-Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Muscicapa striata";"Spotted Flycatcher";"Grauwe Vliegenvanger";0;
+Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Muscicapa striata";"Spotted Flycatcher";"Grauwe Vliegenvanger";1;birds/muscicapa-striata/main.jpg
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Muscicapa gambagae";"Gambaga Flycatcher";Gambagavliegenvanger;0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Muscicapa aquatica";"Swamp Flycatcher";Moerasvliegenvanger;0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Muscicapa cassini";"Cassin's Flycatcher";"Cassins Vliegenvanger";0;
@@ -8954,7 +8954,7 @@ Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Fice
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Ficedula subrubra";"Kashmir Flycatcher";Kashmirvliegenvanger;0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Ficedula parva";"Red-breasted Flycatcher";"Kleine Vliegenvanger";0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Ficedula semitorquata";"Semicollared Flycatcher";Balkanvliegenvanger;0;
-Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Ficedula hypoleuca";"European Pied Flycatcher";"Bonte Vliegenvanger";0;
+Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Ficedula hypoleuca";"European Pied Flycatcher";"Bonte Vliegenvanger";1;birds/ficedula-hypoleuca/main.jpg
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Ficedula speculigera";"Atlas Flycatcher";Atlasvliegenvanger;0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Ficedula albicollis";"Collared Flycatcher";Withalsvliegenvanger;0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Ficedula riedeli";"Tanimbar Flycatcher";Yamdenavliegenvanger;0;
@@ -8997,7 +8997,7 @@ Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Mont
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Monticola solitarius";"Blue Rock-Thrush";"Blauwe Rotslijster";0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Monticola angolensis";"Miombo Rock-Thrush";Miomborotslijster;0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Monticola rupestris";"Cape Rock-Thrush";"Kaapse Rotslijster";0;
-Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Saxicola rubetra";Whinchat;Paapje;0;
+Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Saxicola rubetra";Whinchat;Paapje;1;birds/saxicola-rubetra/main.jpg
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Saxicola macrorhynchus";"White-browed Bushchat";Woestijnpaapje;0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Saxicola insignis";"White-throated Bushchat";"Hodgsons Paapje";0;
 Passeriformes;Muscicapidae;"Old World Flycatchers";"Old World Flycatchers";"Saxicola dacotiae";"Fuerteventura Stonechat";"Canarische Roodborsttapuit";0;
@@ -9655,7 +9655,7 @@ Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus t
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus hodgsoni";"Olive-backed Pipit";"Siberische Boompieper";0;
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus gustavi";"Pechora Pipit";Petsjorapieper;0;
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus cervinus";"Red-throated Pipit";Roodkeelpieper;0;
-Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus spinoletta";"Water Pipit";Waterpieper;0;
+Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus spinoletta";"Water Pipit";Waterpieper;1;birds/anthus-spinoletta/main.jpg
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus petrosus";"Rock Pipit";Oeverpieper;0;
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus rubescens";"American Pipit";"Pacifische Waterpieper";0;
 Passeriformes;Motacillidae;"Wagtails and Pipits";"Wagtails and Pipits";"Anthus spragueii";"Sprague's Pipit";Prairiepieper;0;
@@ -9858,7 +9858,7 @@ Passeriformes;Fringillidae;"Finches, Euphonias, and Allies";"Finches, Euphonias,
 Passeriformes;Fringillidae;"Finches, Euphonias, and Allies";"Finches, Euphonias, and Allies";"Acanthis hornemanni";"Hoary Redpoll";Witstuitbarmsijs;0;
 Passeriformes;Fringillidae;"Finches, Euphonias, and Allies";"Finches, Euphonias, and Allies";"Loxia pytyopsittacus";"Parrot Crossbill";"Grote Kruisbek";0;
 Passeriformes;Fringillidae;"Finches, Euphonias, and Allies";"Finches, Euphonias, and Allies";"Loxia scotica";"Scottish Crossbill";"Schotse Kruisbek";0;
-Passeriformes;Fringillidae;"Finches, Euphonias, and Allies";"Finches, Euphonias, and Allies";"Loxia curvirostra";"Red Crossbill";Kruisbek;0;
+Passeriformes;Fringillidae;"Finches, Euphonias, and Allies";"Finches, Euphonias, and Allies";"Loxia curvirostra";"Red Crossbill";Kruisbek;1;birds/loxia-curvirostra/main.jpg
 Passeriformes;Fringillidae;"Finches, Euphonias, and Allies";"Finches, Euphonias, and Allies";"Loxia sinesciuris";"Cassia Crossbill";"Cassia Crossbill";0;
 Passeriformes;Fringillidae;"Finches, Euphonias, and Allies";"Finches, Euphonias, and Allies";"Loxia megaplaga";"Hispaniolan Crossbill";Hispaniolakruisbek;0;
 Passeriformes;Fringillidae;"Finches, Euphonias, and Allies";"Finches, Euphonias, and Allies";"Loxia leucoptera";"White-winged Crossbill";Witbandkruisbek;0;
