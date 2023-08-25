@@ -221,7 +221,7 @@ Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Nomonyx dominicus";"Masked Duck";Maskerstekelstaart;0;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Oxyura jamaicensis";"Ruddy Duck";"Rosse Stekelstaart";1;birds/oxyura-jamaicensis/main.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Oxyura ferruginea";"Andean Duck";"Andean Duck";0;
-Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Oxyura leucocephala";"White-headed Duck";Witkopeend;0;
+Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Oxyura leucocephala";"White-headed Duck";Witkopeend;1;birds/oxyura-leucocephala/main.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Oxyura maccoa";"Maccoa Duck";"Afrikaanse Stekelstaart";0;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Oxyura vittata";"Lake Duck";"Argentijnse Stekelstaart";0;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Oxyura australis";"Blue-billed Duck";"Australische Stekelstaart";0;
@@ -2075,7 +2075,7 @@ Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Ph
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Phalaropus lobatus";"Red-necked Phalarope";"Grauwe Franjepoot";1;birds/phalaropus-lobatus/main.jpg
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Phalaropus fulicarius";"Red Phalarope";"Rosse Franjepoot";1;birds/phalaropus-fulicarius/main.jpg
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Actitis hypoleucos";"Common Sandpiper";Oeverloper;1;birds/actitis-hypoleucos/main.jpg
-Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Actitis macularius";"Spotted Sandpiper";"Amerikaanse Oeverloper";0;
+Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Actitis macularius";"Spotted Sandpiper";"Amerikaanse Oeverloper";1;birds/actitis-macularius/main.jpg
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa ochropus";"Green Sandpiper";Witgat;0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa solitaria";"Solitary Sandpiper";"Amerikaanse Bosruiter";0;
 Charadriiformes;Scolopacidae;"Sandpipers and Allies";"Sandpipers and Allies";"Tringa brevipes";"Gray-tailed Tattler";"Siberische Grijze Ruiter";0;
