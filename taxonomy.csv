@@ -1863,7 +1863,7 @@ Gruiformes;Aramidae;Limpkin;Limpkin;"Aramus guarauna";Limpkin;Koerlan;0;
 Gruiformes;Psophiidae;Trumpeters;Trumpeters;"Psophia crepitans";"Gray-winged Trumpeter";Trompetvogel;0;
 Gruiformes;Psophiidae;Trumpeters;Trumpeters;"Psophia leucoptera";"Pale-winged Trumpeter";Witvleugeltrompetvogel;0;
 Gruiformes;Psophiidae;Trumpeters;Trumpeters;"Psophia viridis";"Dark-winged Trumpeter";Groenvleugeltrompetvogel;0;
-Gruiformes;Gruidae;Cranes;Cranes;"Balearica regulorum";"Gray Crowned-Crane";"Grijze Kroonkraanvogel";0;
+Gruiformes;Gruidae;Cranes;Cranes;"Balearica regulorum";"Gray Crowned-Crane";"Grijze Kroonkraanvogel";1;birds/balearica-regulorum/main.jpg
 Gruiformes;Gruidae;Cranes;Cranes;"Balearica pavonina";"Black Crowned-Crane";"Zwarte Kroonkraanvogel";0;
 Gruiformes;Gruidae;Cranes;Cranes;"Anthropoides virgo";"Demoiselle Crane";Jufferkraanvogel;1;birds/anthropoides-virgo/main.jpg
 Gruiformes;Gruidae;Cranes;Cranes;"Anthropoides paradiseus";"Blue Crane";"Stanleys Kraanvogel";0;
@@ -2162,7 +2162,7 @@ Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Pagophila eburnea";"Ivory Gull";Ivoormeeuw;1;birds/pagophila-eburnea/main.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Xema sabini";"Sabine's Gull";Vorkstaartmeeuw;1;birds/xema-sabini/main.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Saundersilarus saundersi";"Saunders's Gull";"Saunders' Meeuw";0;
-Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Chroicocephalus genei";"Slender-billed Gull";Dunbekmeeuw;0;
+Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Chroicocephalus genei";"Slender-billed Gull";Dunbekmeeuw;1;birds/chroicocephalus-genei/main.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Chroicocephalus philadelphia";"Bonaparte's Gull";"Kleine Kokmeeuw";0;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Chroicocephalus serranus";"Andean Gull";Andesmeeuw;0;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Chroicocephalus maculipennis";"Brown-hooded Gull";"Patagonische Kokmeeuw";0;
@@ -2503,7 +2503,7 @@ Pelecaniformes;Pelecanidae;Pelicans;Pelicans;"Pelecanus occidentalis";"Brown Pel
 Pelecaniformes;Pelecanidae;Pelicans;Pelicans;"Pelecanus thagus";"Peruvian Pelican";"Peruaanse Pelikaan";0;
 Pelecaniformes;Pelecanidae;Pelicans;Pelicans;"Pelecanus onocrotalus";"Great White Pelican";"Roze Pelikaan";1;birds/pelecanus-onocrotalus/main.jpg
 Pelecaniformes;Pelecanidae;Pelicans;Pelicans;"Pelecanus conspicillatus";"Australian Pelican";"Australische Pelikaan";1;birds/pelecanus-conspicillatus/main.jpg
-Pelecaniformes;Pelecanidae;Pelicans;Pelicans;"Pelecanus rufescens";"Pink-backed Pelican";"Kleine Pelikaan";0;
+Pelecaniformes;Pelecanidae;Pelicans;Pelicans;"Pelecanus rufescens";"Pink-backed Pelican";"Kleine Pelikaan";1;birds/pelecanus-rufescens/main.jpg
 Pelecaniformes;Pelecanidae;Pelicans;Pelicans;"Pelecanus philippensis";"Spot-billed Pelican";"Grijze Pelikaan";0;
 Pelecaniformes;Pelecanidae;Pelicans;Pelicans;"Pelecanus crispus";"Dalmatian Pelican";Kroeskoppelikaan;1;birds/pelecanus-crispus/main.jpg
 Pelecaniformes;Balaenicipitidae;Shoebill;Shoebill;"Balaeniceps rex";Shoebill;Schoenbekooievaar;0;
@@ -8137,7 +8137,7 @@ Passeriformes;Leiothrichidae;"Laughingthrushes and Allies";"Laughingthrushes and
 Passeriformes;Leiothrichidae;"Laughingthrushes and Allies";"Laughingthrushes and Allies";"Actinodura egertoni";"Rusty-fronted Barwing";Grijskopstreepvleugel;0;
 Passeriformes;Leiothrichidae;"Laughingthrushes and Allies";"Laughingthrushes and Allies";"Actinodura ramsayi";"Spectacled Barwing";Brilstreepvleugel;0;
 Passeriformes;Leiothrichidae;"Laughingthrushes and Allies";"Laughingthrushes and Allies";"Actinodura sodangorum";"Black-crowned Barwing";Zwartkruinstreepvleugel;0;
-Passeriformes;Leiothrichidae;"Laughingthrushes and Allies";"Laughingthrushes and Allies";"Leiothrix lutea";"Red-billed Leiothrix";"Japanse Nachtegaal";0;
+Passeriformes;Leiothrichidae;"Laughingthrushes and Allies";"Laughingthrushes and Allies";"Leiothrix lutea";"Red-billed Leiothrix";"Japanse Nachtegaal";1;birds/leiothrix-lutea/main.jpg
 Passeriformes;Leiothrichidae;"Laughingthrushes and Allies";"Laughingthrushes and Allies";"Leiothrix argentauris";"Silver-eared Mesia";Zilveroortimalia;0;
 Passeriformes;Leiothrichidae;"Laughingthrushes and Allies";"Laughingthrushes and Allies";"Minla ignotincta";"Red-tailed Minla";Roodstaartminla;0;
 Passeriformes;Leiothrichidae;"Laughingthrushes and Allies";"Laughingthrushes and Allies";"Leioptila annectens";"Rufous-backed Sibia";Roodrugminla;0;
@@ -8539,7 +8539,7 @@ Passeriformes;Mimidae;"Mockingbirds and Thrashers";"Mockingbirds and Thrashers";
 Passeriformes;Mimidae;"Mockingbirds and Thrashers";"Mockingbirds and Thrashers";"Mimus longicaudatus";"Long-tailed Mockingbird";Langstaartspotlijster;0;
 Passeriformes;Mimidae;"Mockingbirds and Thrashers";"Mockingbirds and Thrashers";"Mimus graysoni";"Socorro Mockingbird";Socorrospotlijster;0;
 Passeriformes;Mimidae;"Mockingbirds and Thrashers";"Mockingbirds and Thrashers";"Mimus gilvus";"Tropical Mockingbird";"Tropische Spotlijster";0;
-Passeriformes;Mimidae;"Mockingbirds and Thrashers";"Mockingbirds and Thrashers";"Mimus polyglottos";"Northern Mockingbird";Spotlijster;0;
+Passeriformes;Mimidae;"Mockingbirds and Thrashers";"Mockingbirds and Thrashers";"Mimus polyglottos";"Northern Mockingbird";Spotlijster;1;birds/mimus-polyglottos/main.jpg
 Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Grandala coelicolor";Grandala;Grandala;0;
 Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Sialia sialis";"Eastern Bluebird";Roodkeelsialia;0;
 Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Sialia mexicana";"Western Bluebird";Blauwkeelsialia;0;
@@ -8665,7 +8665,7 @@ Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Turdus jamai
 Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Turdus swalesi";"La Selle Thrush";Haïtilijster;0;
 Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Turdus infuscatus";"Black Thrush";Guatemalalijster;0;
 Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Turdus nigrescens";"Sooty Thrush";Roetlijster;0;
-Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Turdus migratorius";"American Robin";Roodborstlijster;0;
+Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Turdus migratorius";"American Robin";Roodborstlijster;1;birds/turdus-migratorius/main.jpg
 Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Turdus rufopalliatus";"Rufous-backed Robin";Roestruglijster;0;
 Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Turdus rufitorques";"Rufous-collared Robin";Roodkraaglijster;0;
 Passeriformes;Turdidae;"Thrushes and Allies";"Thrushes and Allies";"Turdus falcklandii";"Austral Thrush";Magelhaenlijster;0;
@@ -9495,7 +9495,7 @@ Passeriformes;Estrildidae;"Waxbills and Allies";"Waxbills and Allies";"Estrilda 
 Passeriformes;Estrildidae;"Waxbills and Allies";"Waxbills and Allies";"Estrilda melpoda";"Orange-cheeked Waxbill";Oranjekaakje;0;
 Passeriformes;Estrildidae;"Waxbills and Allies";"Waxbills and Allies";"Estrilda poliopareia";"Anambra Waxbill";Anambra-astrild;0;
 Passeriformes;Estrildidae;"Waxbills and Allies";"Waxbills and Allies";"Estrilda paludicola";"Fawn-breasted Waxbill";Moerasastrild;0;
-Passeriformes;Estrildidae;"Waxbills and Allies";"Waxbills and Allies";"Estrilda astrild";"Common Waxbill";Sint-Helenafazantje;0;
+Passeriformes;Estrildidae;"Waxbills and Allies";"Waxbills and Allies";"Estrilda astrild";"Common Waxbill";Sint-Helenafazantje;1;birds/estrilda-astrild/main.jpg
 Passeriformes;Estrildidae;"Waxbills and Allies";"Waxbills and Allies";"Estrilda nigriloris";"Black-lored Waxbill";Zwartmaskerastrild;0;
 Passeriformes;Estrildidae;"Waxbills and Allies";"Waxbills and Allies";"Estrilda troglodytes";"Black-rumped Waxbill";Napoleonnetje;0;
 Passeriformes;Estrildidae;"Waxbills and Allies";"Waxbills and Allies";"Estrilda rhodopyga";"Crimson-rumped Waxbill";Teugelastrild;0;
