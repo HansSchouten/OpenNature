@@ -206,7 +206,7 @@ Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Melanitta deglandi";"White-winged Scoter";"White-winged Scoter";0;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Melanitta stejnegeri";"Stejneger's Scoter";"Stejneger's Scoter";0;
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Melanitta nigra";"Common Scoter";"Zwarte Zee-eend";1;birds/melanitta-nigra/main.jpg
-Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Melanitta americana";"Black Scoter";"Amerikaanse Zee-eend";0;
+Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Melanitta americana";"Black Scoter";"Amerikaanse Zee-eend";1;birds/melanitta-americana/main.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Clangula hyemalis";"Long-tailed Duck";IJseend;1;birds/clangula-hyemalis/main.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Bucephala albeola";Bufflehead;Buffelkopeend;1;birds/bucephala-albeola/main.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Bucephala clangula";"Common Goldeneye";Brilduiker;1;birds/bucephala-clangula/main.jpg
@@ -2802,7 +2802,7 @@ Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kite
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Milvus migrans";"Black Kite";"Zwarte Wouw";0;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Haliastur sphenurus";"Whistling Kite";Wigstaartwouw;0;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Haliastur indus";"Brahminy Kite";"Brahmaanse Wouw";0;
-Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Haliaeetus leucocephalus";"Bald Eagle";"Amerikaanse Zeearend";0;
+Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Haliaeetus leucocephalus";"Bald Eagle";"Amerikaanse Zeearend";1;birds/haliaeetus-leucocephalus/main.jpg
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Haliaeetus albicilla";"White-tailed Eagle";Zeearend;1;birds/haliaeetus-albicilla/main.jpg
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Haliaeetus leucoryphus";"Pallas's Fish-Eagle";Witbandzeearend;0;
 Accipitriformes;Accipitridae;"Hawks, Eagles, and Kites";"Hawks, Eagles, and Kites";"Haliaeetus pelagicus";"Steller's Sea-Eagle";"Stellers Zeearend";1;birds/haliaeetus-pelagicus/main.jpg
