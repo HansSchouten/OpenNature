@@ -208,7 +208,7 @@ Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Melanitta nigra";"Common Scoter";"Zwarte Zee-eend";1;birds/melanitta-nigra/large.jpg;birds/melanitta-nigra/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Melanitta americana";"Black Scoter";"Amerikaanse Zee-eend";1;birds/melanitta-americana/large.jpg;birds/melanitta-americana/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Clangula hyemalis";"Long-tailed Duck";IJseend;1;birds/clangula-hyemalis/large.jpg;birds/clangula-hyemalis/thumb.jpg
-Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Bucephala albeola";Bufflehead;Buffelkopeend;1;birds/bucephala-albeola/large.jpg;
+Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Bucephala albeola";Bufflehead;Buffelkopeend;1;birds/bucephala-albeola/large.jpg;birds/bucephala-albeola/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Bucephala clangula";"Common Goldeneye";Brilduiker;1;birds/bucephala-clangula/large.jpg;birds/bucephala-clangula/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Bucephala islandica";"Barrow's Goldeneye";"IJslandse Brilduiker";1;birds/bucephala-islandica/large.jpg;birds/bucephala-islandica/thumb.jpg
 Anseriformes;Anatidae;"Ducks, Geese, and Waterfowl";"Ducks, Geese, and Waterfowl";"Mergellus albellus";Smew;Nonnetje;1;birds/mergellus-albellus/large.jpg;birds/mergellus-albellus/thumb.jpg
@@ -380,7 +380,7 @@ Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and 
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Lophophorus sclateri";"Sclater's Monal";"Sclaters Glansfazant";0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Lophophorus lhuysii";"Chinese Monal";"Chinese Glansfazant";0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Pucrasia macrolopha";"Koklass Pheasant";Koklasfazant;0;;
-Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Meleagris gallopavo";"Wild Turkey";Kalkoen;1;birds/meleagris-gallopavo/large.jpg;
+Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Meleagris gallopavo";"Wild Turkey";Kalkoen;1;birds/meleagris-gallopavo/large.jpg;birds/meleagris-gallopavo/thumb.jpg
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Meleagris ocellata";"Ocellated Turkey";Pauwkalkoen;0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Bonasa umbellus";"Ruffed Grouse";Kraaghoen;0;;
 Galliformes;Phasianidae;"Pheasants, Grouse, and Allies";"Pheasants, Grouse, and Allies";"Tetrastes bonasia";"Hazel Grouse";Hazelhoen;0;;
@@ -2192,7 +2192,7 @@ Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Larus heermanni";"Heermann's Gull";"Heermanns Meeuw";0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Larus canus";"Common Gull";Stormmeeuw;1;birds/larus-canus/large.jpg;birds/larus-canus/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Larus brachyrhynchus";"Short-billed Gull";"Short-billed Gull";0;;
-Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Larus delawarensis";"Ring-billed Gull";Ringsnavelmeeuw;1;birds/larus-delawarensis/large.jpg;
+Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Larus delawarensis";"Ring-billed Gull";Ringsnavelmeeuw;1;birds/larus-delawarensis/large.jpg;birds/larus-delawarensis/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Larus occidentalis";"Western Gull";"Californische Meeuw";1;birds/larus-occidentalis/large.jpg;birds/larus-occidentalis/thumb.jpg
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Larus livens";"Yellow-footed Gull";"Mexicaanse Meeuw";0;;
 Charadriiformes;Laridae;"Gulls, Terns, and Skimmers";"Gulls, Terns, and Skimmers";"Larus californicus";"California Gull";Prairiemeeuw;0;;
@@ -3940,7 +3940,7 @@ Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Micropsitt
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Micropsitta bruijnii";"Red-breasted Pygmy-Parrot";"Bruijns Spechtpapegaai";0;;
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Micropsitta meeki";"Meek's Pygmy-Parrot";"Meeks Spechtpapegaai";0;;
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Micropsitta finschii";"Finsch's Pygmy-Parrot";"Finsch' Spechtpapegaai";0;;
-Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Polytelis swainsonii";"Superb Parrot";Barrabandparkiet;1;birds/polytelis-swainsonii/large.jpg;
+Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Polytelis swainsonii";"Superb Parrot";Barrabandparkiet;1;birds/polytelis-swainsonii/large.jpg;birds/polytelis-swainsonii/thumb.jpg
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Polytelis anthopeplus";"Regent Parrot";Regentparkiet;0;;
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Polytelis alexandrae";"Princess Parrot";Prinses-van-Walesparkiet;0;;
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Alisterus scapularis";"Australian King-Parrot";"Australische Koningsparkiet";0;;
@@ -4104,7 +4104,7 @@ Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Agapornis 
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Agapornis canus";"Gray-headed Lovebird";Grijskopagapornis;0;;
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Agapornis pullarius";"Red-headed Lovebird";Roodmaskeragapornis;0;;
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Agapornis taranta";"Black-winged Lovebird";Zwartvleugelagapornis;0;;
-Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Agapornis roseicollis";"Rosy-faced Lovebird";Perzikkopagapornis;1;birds/agapornis-roseicollis/large.jpg;
+Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Agapornis roseicollis";"Rosy-faced Lovebird";Perzikkopagapornis;0;;
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Agapornis fischeri";"Fischer's Lovebird";"Fischers Agapornis";1;birds/agapornis-fischeri/large.jpg;birds/agapornis-fischeri/thumb.jpg
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Agapornis personatus";"Yellow-collared Lovebird";Zwartmaskeragapornis;0;;
 Psittaciformes;Psittaculidae;"Old World Parrots";"Old World Parrots";"Agapornis lilianae";"Lilian's Lovebird";Nyasa-agapornis;0;;
