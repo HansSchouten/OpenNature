@@ -6,9 +6,9 @@ This library aims to provide free to use information about all living species, s
 
 <!-- DYNAMIC BADGES -->
 <div><img alt="Bird species in taxonomy" src="https://img.shields.io/badge/Bird_species_in_taxonomy-10750_species-blue"></div>
-<div><img alt="Species with a free image" src="https://img.shields.io/badge/Species_with_a_free_image-733_species-green"></div>
-<div><img alt="Taxonomy coverage" src="https://img.shields.io/badge/Taxonomy_coverage-6.82%25-green"></div>
-<div><img alt="Total dataset size" src="https://img.shields.io/badge/Total_dataset_size-158.16_MB-green"></div>
+<div><img alt="Species with a free image" src="https://img.shields.io/badge/Species_with_a_free_image-748_species-green"></div>
+<div><img alt="Taxonomy coverage" src="https://img.shields.io/badge/Taxonomy_coverage-6.96%25-green"></div>
+<div><img alt="Total dataset size" src="https://img.shields.io/badge/Total_dataset_size-161.16_MB-green"></div>
 <!-- END DYNAMIC BADGES -->
 
 ## Download
