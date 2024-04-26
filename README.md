@@ -1,3 +1,5 @@
+Future changes to this repo can be found at https://github.com/FaunaMap/OpenNature. This repo is archived since April 2024.
+
 # OpenNature
 > Free open information (CC0) about nature on planet earth.
 
